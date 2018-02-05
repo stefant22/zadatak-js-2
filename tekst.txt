@@ -1,0 +1,11 @@
+﻿1. Napraviti sajt prema priloženim slikama. 
+Formatiranje i uređenost definisati u odvojenoj CSS datoteci pod nazivom izgled.css
+
+2. Sajt treba da sadrži stranice (index.html, posao.html, saradnici.html, kontakt.html) i u svima odgovarajuću 
+navigaciju. 
+
+3. Pozadinu obojiti korišćenjem koda
+
+4. Navigacija ima 2 nivoa, obratiti paznju na transparentnost, boju hover efekta (#C8E, #F99 i #FF9), senke... (navPosao.jpg, navSaradnici.jpg, navKontakt.jpg)
+
+(boju hover efekta u navigaciji menjati preko JavaScript-a)
