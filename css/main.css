@@ -73,3 +73,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#71ceef', end
 .show {
     display: block;
 }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
